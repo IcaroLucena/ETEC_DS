@@ -1,0 +1,1 @@
+Aqui estarão meus antigos repositórios usados em cada semestre do curso de Desenvolvimento de Sistemas (DS).
