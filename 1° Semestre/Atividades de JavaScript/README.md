@@ -1,0 +1,1 @@
+Neste repositório colocarei todas as atividades e trablhos de JavaScript. Matéria de Programação WEB 1 que está ligada a HTML e CSS.
